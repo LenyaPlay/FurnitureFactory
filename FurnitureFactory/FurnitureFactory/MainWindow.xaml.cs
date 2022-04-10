@@ -42,7 +42,7 @@ namespace FurnitureFactory
 
         private bool adminFlag = false;
 
-        private void Button_Click_1(object sender, RoutedEventArgs e)
+        private void Button_Click_1(object sender, RoutedEventArgs e)               //Кнопка для входа от имени администратора
         {
             if (password.Text != "")
             {
@@ -69,7 +69,7 @@ namespace FurnitureFactory
             }
         }
 
-        private void OpenTable(object sender, RoutedEventArgs e)
+        private void OpenTable(object sender, RoutedEventArgs e)                //Кнопка для того чтобы открыть определенную таблицу (Только для администратора)
         {
             if (!adminFlag)
             {
@@ -84,17 +84,23 @@ namespace FurnitureFactory
             }
         }
 
-        private void OpenFurniture(object sender, RoutedEventArgs e)
+        private void OpenFurniture(object sender, RoutedEventArgs e)            //Кнопка которая открывает таблицу с мебелью
         {
             UniversalTableEditingWindow w = new UniversalTableEditingWindow();
             w.SetTable("furniture");
             w.Show();
         }
 
-        private void OpenStaffs(object sender, RoutedEventArgs e)
+        private void OpenStaffs(object sender, RoutedEventArgs e)               //Кнопка которая открывает таблицу с сотрудниками
         {
             UniversalTableEditingWindow w = new UniversalTableEditingWindow();
             w.SetTable("staff");
+            w.Show();
+        }
+        private void OpenBrigades(object sender, RoutedEventArgs e)             //Кнопка которая открывает таблицу с бригадами
+        {
+            UniversalTableEditingWindow w = new UniversalTableEditingWindow();
+            w.SetTable("brigade");
             w.Show();
         }
     }

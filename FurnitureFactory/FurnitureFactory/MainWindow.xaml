@@ -42,17 +42,18 @@
 
 
             <Label     Content="Войти как администратор" HorizontalAlignment="Left"  VerticalAlignment="Top" />
-            <Label   Margin="5"  Content="Логин" HorizontalAlignment="Left"  VerticalAlignment="Top"/>
-            <TextBox Width="170" Margin="5" x:Name="login" HorizontalAlignment="Left" Height="26"  TextWrapping="Wrap" Text="" VerticalAlignment="Top"/>
-            <Label   Margin="5"  Content="Пароль" HorizontalAlignment="Left"  VerticalAlignment="Top" />
+            <Label   Margin="5"  Content="Логин" HorizontalAlignment="Left"  VerticalAlignment="Top" Height="24"/>
+            <TextBox Width="170" Margin="5" x:Name="login" HorizontalAlignment="Left" Height="21"  TextWrapping="Wrap" Text="" VerticalAlignment="Top"/>
+            <Label   Margin="5"  Content="Пароль" HorizontalAlignment="Left"  VerticalAlignment="Top" Height="26" />
             <TextBox  Width="170" Margin="5" x:Name="password" HorizontalAlignment="Left" Height="26"  TextWrapping="Wrap" Text="" VerticalAlignment="Top"/>
 
-            <Button  Content="Войти" HorizontalAlignment="Left"  VerticalAlignment="Top" Width="154" Height="33" Click="Button_Click_1"/>
+            <Button  Content="Войти" HorizontalAlignment="Left"  VerticalAlignment="Top" Width="154" Height="23" Click="Button_Click_1"/>
         </WrapPanel>
 
         <WrapPanel Orientation="Vertical">
-            <Button Height="30" Width="200" Margin="5" Click="OpenFurniture">Мебель</Button>
-            <Button Height="30" Width="200" Margin="5" Click="OpenStaffs">Сотрудники</Button>
+            <Button Height="23" Width="200" Margin="5" Click="OpenFurniture">Мебель</Button>
+            <Button Height="23" Width="200" Margin="5" Click="OpenStaffs">Сотрудники</Button>
+            <Button Height="26" Width="200" Margin="5" Click="OpenBrigades" Content="Бригады"/>
         </WrapPanel>
 
 

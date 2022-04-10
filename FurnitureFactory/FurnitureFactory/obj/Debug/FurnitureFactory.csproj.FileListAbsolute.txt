@@ -1,7 +1,6 @@
 C:\Users\ramil\OneDrive\Рабочий стол\FurnitureFactory\FurnitureFactory\bin\Debug\FurnitureFactory.exe.config
 C:\Users\ramil\OneDrive\Рабочий стол\FurnitureFactory\FurnitureFactory\bin\Debug\FurnitureFactory.exe
 C:\Users\ramil\OneDrive\Рабочий стол\FurnitureFactory\FurnitureFactory\bin\Debug\FurnitureFactory.pdb
-C:\Users\ramil\OneDrive\Рабочий стол\FurnitureFactory\FurnitureFactory\obj\Debug\FurnitureFactory.csprojAssemblyReference.cache
 C:\Users\ramil\OneDrive\Рабочий стол\FurnitureFactory\FurnitureFactory\obj\Debug\MainWindow.g.cs
 C:\Users\ramil\OneDrive\Рабочий стол\FurnitureFactory\FurnitureFactory\obj\Debug\App.g.cs
 C:\Users\ramil\OneDrive\Рабочий стол\FurnitureFactory\FurnitureFactory\obj\Debug\FurnitureFactory_MarkupCompile.cache
@@ -13,7 +12,6 @@ C:\Users\ramil\OneDrive\Рабочий стол\FurnitureFactory\FurnitureFactor
 C:\Users\ramil\OneDrive\Рабочий стол\FurnitureFactory\FurnitureFactory\obj\Debug\FurnitureFactory.csproj.CoreCompileInputs.cache
 C:\Users\ramil\OneDrive\Рабочий стол\FurnitureFactory\FurnitureFactory\obj\Debug\FurnitureFactory.exe
 C:\Users\ramil\OneDrive\Рабочий стол\FurnitureFactory\FurnitureFactory\obj\Debug\FurnitureFactory.pdb
-C:\Users\ramil\OneDrive\Рабочий стол\FurnitureFactory\FurnitureFactory\obj\Debug\Window1.g.cs
 C:\Users\lenya\Downloads\FurnitureFactory\FurnitureFactory\obj\Debug\FurnitureFactory.csproj.AssemblyReference.cache
 C:\Users\lenya\Downloads\FurnitureFactory\FurnitureFactory\obj\Debug\FurnitureFactory.csproj.SuggestedBindingRedirects.cache
 C:\Users\lenya\Downloads\FurnitureFactory\FurnitureFactory\obj\Debug\MainWindow.g.cs
@@ -49,3 +47,6 @@ C:\Users\ramil\OneDrive\Рабочий стол\Раиль\FurnitureFactory\Furn
 C:\Users\ramil\OneDrive\Рабочий стол\Раиль\FurnitureFactory\FurnitureFactory\obj\Debug\FurnitureFactory.pdb
 C:\Users\lenya\Downloads\FurnitureFactory\FurnitureFactory\obj\Debug\UniversalTableEditingWindow.g.cs
 C:\Users\lenya\Downloads\FurnitureFactory\FurnitureFactory\obj\Debug\UniversalTableEditingWindow.baml
+C:\Users\ramil\OneDrive\Рабочий стол\FurnitureFactory\FurnitureFactory\obj\Debug\FurnitureFactory.csproj.AssemblyReference.cache
+C:\Users\ramil\OneDrive\Рабочий стол\FurnitureFactory\FurnitureFactory\obj\Debug\UniversalTableEditingWindow.g.cs
+C:\Users\ramil\OneDrive\Рабочий стол\FurnitureFactory\FurnitureFactory\obj\Debug\UniversalTableEditingWindow.baml
